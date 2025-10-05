@@ -245,7 +245,7 @@ export function TeamDirectory({ members: initialMembers }: TeamDirectoryProps) {
                   >
                     <div className={`relative px-6 py-3 ${isDark ? 'bg-slate-800' : 'bg-white'} rounded-lg shadow-2xl border-2 ${isDark ? 'border-blue-400' : 'border-blue-300'}`}>
                       <h1 className="font-display text-2xl font-bold bg-gradient-to-r from-primary via-blue-500 to-cyan-500 bg-clip-text text-transparent whitespace-nowrap tracking-wide">
-                        Ephesians 2025-2026
+                        Legends 2025-2026
                       </h1>
                       {/* Banner rope attachments */}
                       <div className={`absolute -top-2 left-4 w-1 h-4 ${isDark ? 'bg-slate-600' : 'bg-gray-400'} transform -rotate-12`} />
